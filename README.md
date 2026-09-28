@@ -68,6 +68,23 @@
 
 ## Все точки и контакты
 
+## Все точки и контакты
+
+| Место | Google Maps | Контакт |
+|---|---|---|
+| Баракони | https://maps.google.com/?cid=15012228535644509266 | — |
+| Никорцминда | https://maps.google.com/?cid=8603922707050055643 | — |
+| Kesane — Forget Me Not | https://maps.google.com/?cid=2604914550942105965 | [Позвонить](tel:+995595004490) · [WhatsApp](https://wa.me/995595004490) |
+| Margvelidze Winery | https://maps.google.com/?cid=8340657746774241527 | [Позвонить](tel:+995579191506) · [WhatsApp](https://wa.me/995579191506) |
+| Nika's Rachan Winery | https://maps.google.com/?cid=17474808551250306407 | [Позвонить](tel:+995599240382) · [WhatsApp](https://wa.me/995599240382) |
+| No Bar Racha | https://maps.app.goo.gl/AvWJBbHivfSC2crb6 | [Позвонить](tel:+995595858858) · [WhatsApp](https://wa.me/995595858858) |
+| Chveni puri da gvino | https://maps.google.com/?cid=17567911787642383699 | [Позвонить](tel:+995505559977) · [WhatsApp](https://wa.me/995505559977) |
+| Wine House Khvanchkara | https://maps.google.com/?cid=17699826089905348776 | [Позвонить](tel:+995551576709) · [WhatsApp](https://wa.me/995551576709) |
+| Doli, Кутаиси | https://maps.google.com/?cid=6179935951948589186 | [Позвонить](tel:+995599331181) · [WhatsApp](https://wa.me/995599331181) |
+| Otia's Ezo | https://maps.google.com/?cid=10268273407908076109 | [Позвонить](tel:+995595111342) · [WhatsApp](https://wa.me/995595111342) |
+
+**Жильё:** WoodStar — [Позвонить](tel:+995599890372) · [WhatsApp](https://wa.me/995599890372) · View Racha — [Позвонить](tel:+995599207020) · [WhatsApp](https://wa.me/995599207020) · Racha Roots — [Позвонить](tel:+995551380665) · [WhatsApp](https://wa.me/995551380665)
+
 | Место | Google Maps | Телефон |
 |---|---|---|
 | Баракони | <https://maps.google.com/?cid=15012228535644509266> | — |
@@ -75,7 +92,7 @@
 | Kesane — Forget Me Not | <https://maps.google.com/?cid=2604914550942105965> | +995 595 00 44 90 |
 | Margvelidze Winery | <https://maps.google.com/?cid=8340657746774241527> | +995 579 19 15 06 |
 | Nika's Rachan Winery | <https://maps.google.com/?cid=17474808551250306407> | +995 599 24 03 82 |
-| No Bar Racha | <https://maps.google.com/?cid=...> | +995 595 85 88 58 |
+| No Bar Racha | <https://maps.app.goo.gl/AvWJBbHivfSC2crb6> | +995 595 85 88 58 |
 | Chveni puri da gvino | <https://maps.google.com/?cid=17567911787642383699> | +995 505 55 99 77 |
 | Wine House Khvanchkara | <https://maps.google.com/?cid=17699826089905348776> | +995 551 57 67 09 |
 | Doli, Кутаиси | <https://maps.google.com/?cid=6179935951948589186> | +995 599 33 11 81 |
@@ -86,4 +103,5 @@
 ## Чек-лист сборов
 
 **Машина:** запаска + домкрат (шины страховкой не покрываются), полный бак перед Рачей, наличные (лари), уточнить у проката класс дороги.
+
 **Одежда:** тёплые слои (ночью ~+3°C), непромокаемая обувь и дождевик, плед/термос, для церквей прикрытые плечи/колени, пауэрбанк.

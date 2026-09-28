@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Рача и Лечхуми 30.10–01.11.2026</name>
+  <Folder><name>База и заезд (30.10)</name>
+    <Placemark><name>База — Амбролаури</name><Point><coordinates>43.1507112,42.5194925,0</coordinates></Point></Placemark>
+    <Placemark><name>Баракони</name><Point><coordinates>43.0275289,42.5572394,0</coordinates></Point></Placemark>
+    <Placemark><name>Шкмери</name><Point><coordinates>43.2194445,42.5418312,0</coordinates></Point></Placemark>
+  </Folder>
+  <Folder><name>Главный день (31.10)</name>
+    <Placemark><name>Никорцминда</name><Point><coordinates>43.0881699,42.4592505,0</coordinates></Point></Placemark>
+    <Placemark><name>Kesane — Forget Me Not</name><Point><coordinates>43.1435543,42.4722048,0</coordinates></Point></Placemark>
+    <Placemark><name>Озеро Шаори</name><Point><coordinates>43.0784024,42.4198785,0</coordinates></Point></Placemark>
+    <Placemark><name>Цхраджвари</name><Point><coordinates>42.9711127,42.3862857,0</coordinates></Point></Placemark>
+    <Placemark><name>Margvelidze Winery</name><Point><coordinates>43.1216715,42.5388703,0</coordinates></Point></Placemark>
+    <Placemark><name>Столбы Саирме</name><Point><coordinates>42.8689799,42.5479799,0</coordinates></Point></Placemark>
+    <Placemark><name>Secret Pool (Лаилаши)</name><Point><coordinates>42.8600019,42.6074135,0</coordinates></Point></Placemark>
+    <Placemark><name>Водопад Гвириши / Накуралеши</name><Point><coordinates>42.7974133,42.5702513,0</coordinates></Point></Placemark>
+    <Placemark><name>Nika's Rachan Winery</name><Point><coordinates>43.0264486,42.5575939,0</coordinates></Point></Placemark>
+  </Folder>
+  <Folder><name>Выезд через Лечхуми (01.11)</name>
+    <Placemark><name>Гора Хвамли (Окуреши)</name><Point><coordinates>42.7134704,42.5008643,0</coordinates></Point></Placemark>
+    <Placemark><name>Кутаиси — обед (Doli)</name><Point><coordinates>42.6981179,42.2685321,0</coordinates></Point></Placemark>
+  </Folder>
+</Document>
+</kml>

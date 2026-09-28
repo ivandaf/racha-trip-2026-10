@@ -16,19 +16,19 @@
 - прилёт WZ-559 — 29.10, 08:15 Москва (Жуковский) → 12:30 Тбилиси
 - вылет WZ-560 — 02.11, 15:55 Тбилиси → 18:20 Москва (Жуковский).
 
-- - 
+
 ### Утро 7:00 - 8:00 → 30.10 · Тбилиси → база
 <!-- 30.10 · Тбилиси → база -->
 <iframe width="100%" height="420" style="border:0" loading="lazy" allowfullscreen
  src="https://maps.google.com/maps?saddr=Tbilisi&daddr=42.4917538,43.4158371+to:42.5418312,43.2194445+to:42.5572394,43.0275289+to:42.5194925,43.1507112&output=embed"></iframe>
 
-- -
+
 ### 31.10 · вино + глиномес
 <!-- 31.10 · вино + глиномес -->
 <iframe width="100%" height="420" style="border:0" loading="lazy" allowfullscreen
  src="https://maps.google.com/maps?saddr=42.5194925,43.1507112&daddr=42.4592505,43.0881699+to:42.5479799,42.8689799+to:42.6074135,42.8600019+to:42.5575939,43.0264486+to:42.5194925,43.1507112&output=embed"></iframe>
 
-- - 
+
 ### 01.11 · выезд через Лечхуми
 <!-- 01.11 · выезд через Лечхуми -->
 <iframe width="100%" height="420" style="border:0" loading="lazy" allowfullscreen
@@ -36,12 +36,16 @@
 
 
 ## Оффлайн-карты
+### files
+[`racha-waypoints.kml`](/racha-waypoints.kml)
+[`racha-waypoints.gpx`](/racha-waypoints.gpx)
 
 Связь в горах Рачи пропадает.
 
-- **Файлы точек:** `racha-waypoints.kml` ([Organic Maps](https://organicmaps.app/), maps.me, Google Earth, My Maps) и `racha-waypoints.gpx` (навигаторы).
-  
-- **Organic Maps:** установить → скачать регион Georgia → открыть `racha-waypoints.kml` → точки лягут в закладки. maps.me — так же.
+- **Файлы точек:** [`racha-waypoints.kml`](/racha-waypoints.kml) ([Organic Maps](https://organicmaps.app/), maps.me, Google Earth, My Maps) и `racha-waypoints.gpx` (навигаторы).
+
+- **Organic Maps:** установить → скачать регион Georgia → открыть [`racha-waypoints.kml`](/racha-waypoints.kml) → точки лягут в закладки. maps.me — так же.
+
 - **Google Maps:** профиль → «Офлайн-карты» → «Выбрать свою карту» → область Амбролаури–Они–Цагери–Кутаиси → «Скачать». Работает только автонавигация.
 
 ## Маршрут по дням

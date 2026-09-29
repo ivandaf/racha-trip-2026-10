@@ -53,12 +53,7 @@
 - Баракони — <https://maps.google.com/?cid=15012228535644509266>
 - Ужин/вино: Chveni puri da gvino — <https://maps.google.com/?cid=17567911787642383699> · Wine House Khvanchkara — <https://maps.google.com/?cid=17699826089905348776>
 - **Где жить:**
-  - гуд → [Два дома и костровище ](https://www.booking.com/Share-Mj0nOci)
-  - один дом, два этажа, не оч с местом [Kvabtkari Cottages](https://www.booking.com/Share-0JLEkGo)
-  - вери гуд → домики, по два человека, приятные → [Brotseulebi](https://www.booking.com/Share-Fq3YEv)
-  - гуд → дом с двумя спальнями, одна двуспальная и две отдельные, две ванны [Villa Maiseli](https://www.booking.com/Share-E5PmZY)
-  - камин! дом, две спальни двуспальные, плюс диван [Cottage Soulmate](https://www.booking.com/Share-6tro3Hf)
-  - гуд, две спальни, одна двуспальная, две отдельные, костер, мангал → [WoodStar](https://www.booking.com/Share-iaK3E5)
+  - две спальни, одна двуспальная, две отдельные, костер, мангал → [WoodStar](https://www.booking.com/Share-iaK3E5)
 
 
 
